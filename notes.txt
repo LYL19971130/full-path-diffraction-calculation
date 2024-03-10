@@ -1,1 +1,1 @@
-Corresponding data and code about the full path optical diffraction calculation through the lens will be released upon the aceeptance of our manuscript
+Corresponding data and code about the full path optical diffraction calculation through the lens will be released upon the acceptance of our manuscript
